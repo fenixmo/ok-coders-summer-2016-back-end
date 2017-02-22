@@ -1,0 +1,2 @@
+This is a text file
+im learning node and then i'll build a scraper!
